@@ -1,0 +1,22 @@
+{
+  "name": "alert-sound",
+  "version": "1.0.0",
+  "description": "Kapacitor alert sound on grafana dashboard",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skjoher/alert-sound.git"
+  },
+  "keywords": [
+    "Alert"
+  ],
+  "author": "Joher",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/skjoher/alert-sound/issues"
+  },
+  "homepage": "https://github.com/skjoher/alert-sound#readme"
+}
